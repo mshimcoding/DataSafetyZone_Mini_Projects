@@ -7,4 +7,4 @@ RapidMiner는 RapidMiner파일들이 있다
 
 Python은 Python 기반 Pandas를 주로 이용한 데이터 수집. 분석 파일들이 있다.
 
-DataSafetyZone에는 원래는 안심구역에서 진행된 프로젝트들을 올리려고 하였으나, 구정상 불가능하여서 보안계약서만 있다.
+DataSafetyZone에는 원래는 안심구역에서 진행된 프로젝트들을 올리려고 하였으나, 출반입이 되는것이 재한적이여서 없다.
